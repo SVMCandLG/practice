@@ -1,3 +1,2 @@
 first text
-second text
-third text
+second text added by server
